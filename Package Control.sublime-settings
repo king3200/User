@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"IndentGuides",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Terminal"
+	]
+}
